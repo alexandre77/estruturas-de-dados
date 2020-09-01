@@ -14,7 +14,10 @@
    version="1.2"
    id="svg10332"
    sodipodi:docname="fila-em-vetor.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/run/user/1000/gvfs/sftp:host=retina.inf.ufsc.br,user=retina/home/retina/disciplinas/estruturas-de-dados/figs/fila-em-vetor.png"
+   inkscape:export-xdpi="150.11771"
+   inkscape:export-ydpi="150.11771">
   <metadata
      id="metadata10336">
     <rdf:RDF>
@@ -23,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,17 +39,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
      id="namedview10334"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.3122114"
-     inkscape:cx="45.115555"
-     inkscape:cy="74.400045"
+     inkscape:zoom="2.3147629"
+     inkscape:cx="215.73821"
+     inkscape:cy="178.42001"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
