@@ -15,7 +15,7 @@
    id="svg7328"
    sodipodi:docname="lista-de-vetores.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   inkscape:export-filename="/home/alexandre/SeafileMy/disciplinas/code/lista-em-vetor/figs/lista-de-vetores.png"
+   inkscape:export-filename="/run/user/1000/gvfs/sftp:host=retina.inf.ufsc.br,user=retina/home/retina/disciplinas/estruturas-de-dados/figs/lista-de-vetores.png"
    inkscape:export-xdpi="99.928444"
    inkscape:export-ydpi="99.928444">
   <metadata
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,9 +47,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.57247751"
-     inkscape:cx="389"
-     inkscape:cy="255.06251"
+     inkscape:zoom="1.8345302"
+     inkscape:cx="293.01308"
+     inkscape:cy="248.07534"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
